@@ -7647,6 +7647,10 @@ button.bg-dark:focus {
   }
 }
 
+.tengah {
+  text-align: center;
+}
+
 @media (min-width: 576px) {
   .flex-sm-row {
     flex-direction: row !important;
